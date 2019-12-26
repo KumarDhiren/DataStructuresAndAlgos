@@ -3,6 +3,8 @@ package com.datastructures.linkedlist.impl;
 
 import com.datastructures.linkedlist.node.Node;
 
+import java.util.LinkedList;
+
 public class LinkedListV2<T extends Comparable> implements List<T> {
 
     private int size;
